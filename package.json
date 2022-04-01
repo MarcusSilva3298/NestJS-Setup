@@ -1,8 +1,8 @@
 {
   "name": "nest-js-setup",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS basic setup",
+  "author": "marcussilva3298@gmail,com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
